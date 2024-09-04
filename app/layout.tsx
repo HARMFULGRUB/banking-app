@@ -10,8 +10,8 @@ const ibmPlexSerif = IBM_Plex_Serif({
 })
 
 export const metadata: Metadata = {
-  title: "The Goat Bank",
-  description: "The Goat Bank is a modern banking platform for everyone.",
+  title: "Goat",
+  description: "Goat is a modern banking platform for everyone.",
   icons: '/icons/logo.svg'
 };
 
